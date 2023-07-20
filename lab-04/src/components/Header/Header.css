@@ -1,0 +1,17 @@
+header {
+  padding: 1rem;
+  background-color: teal;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.horns-label {
+  font-size: 1.25rem;
+  margin-right: 0.5rem;
+}
+
+#hornsInput {
+  width: 100px;
+}
